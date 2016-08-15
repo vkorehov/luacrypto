@@ -16,7 +16,7 @@ external_dependencies = {
 	}
 }
 source = {
-	url = "https://github.com/vkorehov/luacrypto",
+	url = "git://github.com/vkorehov/luacrypto",
 }
 build = {
 	type = "builtin",
